@@ -4,8 +4,8 @@
 Per executar el programa és necessari:   
 1. Clonar el repositori en local   
 ```
-git clone https://repo.fib.upc.es/grau-prop/subgrup-prop21.1.git
-cd subgrup-prop21.1/
+git clone https://github.com/miquelt9/PROP-FIB/
+cd PROP-FIB/
 ```
 
 2. Compilar el codi:   
