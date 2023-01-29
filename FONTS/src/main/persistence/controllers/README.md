@@ -1,0 +1,1 @@
+Aquesta carpeta conté tots els controladors referents a la capa de persistència.   

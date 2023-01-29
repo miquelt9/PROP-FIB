@@ -1,0 +1,1 @@
+Aquesta carpeta conté els fitxers de les StopWords en diferents idiomes.

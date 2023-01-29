@@ -1,0 +1,1 @@
+Aquesta carpeta engloba les subcarpetes de classes i controladors de la capa de presentació.   

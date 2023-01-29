@@ -1,0 +1,5 @@
+Aqui es troben totes les classes del domini
+
+Excepcions: Es troben les Excepcions
+
+StopWords: documents utils per a la classe document (no moure de lloc)

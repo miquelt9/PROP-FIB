@@ -1,0 +1,9 @@
+En aquesta carpeta es troba el codi font del projecte
+
+lib: conté llibreries (basicament les de JUnit) 
+src: el codi principal
+
+clean.sh: Script per netejar totes les carpetes dels .class
+compile.sh: Script que compila tots els executables i els deixa en la carpeta EXE, crida a clean o sigui que recompila sempre.
+
+Es possible que calguin modificar els permisos dels scripts per executar-los

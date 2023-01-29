@@ -1,0 +1,1 @@
+Aquesta carpeta conté el controlador referent a la capa de domini.   

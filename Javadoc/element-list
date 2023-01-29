@@ -1,0 +1,8 @@
+src.main.domain.classes
+src.main.domain.classes.exceptions
+src.main.domain.controllers
+src.main.persistence.classes
+src.main.persistence.classes.exceptions
+src.main.persistence.controllers
+src.main.presentation.classes
+src.main.presentation.controllers

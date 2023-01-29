@@ -1,0 +1,5 @@
+Aqui es troben tot el codi font de la capa de domini
+
+controllers: codi font dels controladors
+
+classes: codi font de les classes del domini

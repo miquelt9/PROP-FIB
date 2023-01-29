@@ -1,0 +1,1 @@
+Aquesta corpeta conté les classes excepcions que poden ser llençades per les classes de la capa de domini.   

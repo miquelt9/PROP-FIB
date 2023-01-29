@@ -1,0 +1,1 @@
+Aquesta carpeta engloba les subcarpetes de classes, controladors i fitxers guardats de la capa de persistència.   
