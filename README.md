@@ -39,5 +39,5 @@ Per comprovar que esta configurat ens hauria de sortir els paths anteriors en fe
 ```
 echo $CLASSPATH
 ```
-
+___
 Made by [AleexHrB](https://github.com/AleexHrB), [LlucCC](https://github.com/LlucCC), [eZWALT](https://github.com/eZWALT) and me.
