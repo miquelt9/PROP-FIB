@@ -1,4 +1,6 @@
 # Gestor de documents
+## Descarrega el programa
+Si vols provar el programa hauràs d'haver instal·lat previament Java al teu ordinador, llavors caldrà que descarreguis l'últim [release](https://github.com/miquelt9/PROP-FIB/releases/download/falconExplorer/FalconExplorer.jar) i l'executis.
 
 ## Execució del programa i tests
 Per executar el programa és necessari:   
